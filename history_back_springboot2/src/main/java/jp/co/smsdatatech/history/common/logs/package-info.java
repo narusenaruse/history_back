@@ -1,0 +1,1 @@
+package jp.co.smsdatatech.history.common.logs;
