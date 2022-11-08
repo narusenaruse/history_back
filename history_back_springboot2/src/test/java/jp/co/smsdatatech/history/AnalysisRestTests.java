@@ -41,6 +41,9 @@ class AnalysisRestTests {
 
 	private static AnalysisRest analysisRest;
 
+	
+	
+	
 	@BeforeAll
 	static void beforeAll() {
 		analysisRest = new AnalysisRest();
