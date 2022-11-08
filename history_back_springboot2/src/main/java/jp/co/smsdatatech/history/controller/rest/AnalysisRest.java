@@ -22,6 +22,8 @@ import jp.co.smsdatatech.history.form.EventForm;
 import jp.co.smsdatatech.history.service.AnalysisViewMapperService;
 import jp.co.smsdatatech.history.service.EventMapperService;
 
+
+
 /**
  *分析画面コントローラー
  */
